@@ -1,0 +1,5 @@
+# Inore workstation specific files
+.settings/
+*.cache
+.screenshots/*
+debug.log
